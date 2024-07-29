@@ -16,6 +16,7 @@ Samira Grossi
 
 Relatório solicitado pela Generation Brasil para compor o projeto final. O relatório refere-se à descrição dos atributos das classes que serão utilizadas no projeto integrador.
 
+
 1) **DESCRIÇÃO DOS ATRIBUTOS**
 
 **Nome da Classe: Servico**
@@ -49,6 +50,6 @@ Relatório solicitado pela Generation Brasil para compor o projeto final. O rela
 | Tipo (String) | Exibe Cursos ou vagas de emprego. |
 | Cargo (String) | Definir qual o tipo de cargo (estágio, trainee, junior, etc). |
 
-**2\) REPOSITÓRIO DA ORGANIZAÇÃO** 
+2) REPOSITÓRIO DA ORGANIZAÇÃO** 
 
 [**Centro-Bell-Hooks/backend (github.com)**](https://github.com/Centro-Bell-Hooks/backend)
