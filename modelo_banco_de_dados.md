@@ -1,5 +1,3 @@
-![][image1]
-
 **GRUPO 03**
 
 **INTEGRANTES**
@@ -61,7 +59,7 @@ Relatório solicitado pela Generation Brasil para compor o projeto final. O rela
 
 **2\) DER do BD**
 
-**![][image2]**  
+https://github.com/Centro-Bell-Hooks/documentation/blob/main/der_projeto_integrador.png  
 			  
 **3\) REPOSITÓRIO**
 
