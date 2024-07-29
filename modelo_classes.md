@@ -48,9 +48,6 @@ Relatório solicitado pela Generation Brasil para compor o projeto final. O rela
 | Id  (Long) | Identificador único do objeto.  |
 | Tipo (String) | Exibe Cursos ou vagas de emprego. |
 | Cargo (String) | Definir qual o tipo de cargo (estágio, trainee, junior, etc). |
-|  |  |
-|  |  |
-|  |  |
 
 **2\) REPOSITÓRIO DA ORGANIZAÇÃO** 
 
